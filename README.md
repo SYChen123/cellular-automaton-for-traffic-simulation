@@ -1,5 +1,5 @@
 # cellular-automaton-for-traffic-simulation
-A simple implementation of STNS model,which is an extended version of NS model and consider the situation that cars change lanes.
+对STNS模型的实现，不仅实现了NS模型中的内容，还实现了对车辆变道的处理。
 
 程序的主函数是trafficModel_main.m，运行之后会实时地绘制出汽车地行驶情况。
 
